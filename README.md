@@ -17,5 +17,3 @@ This project is created as a personal learning playground to explore and practic
   - Simplified reducer logic
   - Immutability with Immer
 
-## 📁 Folder Structure
-
